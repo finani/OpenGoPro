@@ -51,3 +51,6 @@ codekit-config.json
 /docs/_asset_bundler_cache
 /docs/_site
 !/docs/assets/images/demos
+
+*.mp4
+*.MP4
